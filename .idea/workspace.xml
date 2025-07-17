@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="411ca7ff-5b73-4798-8018-d66bff7ae520" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/apis/seoul_data/realtime_bicycle.py" beforeDir="false" afterPath="$PROJECT_DIR$/apis/seoul_data/realtime_bicycle.py" afterDir="false" />
-    </list>
+    <list default="true" id="411ca7ff-5b73-4798-8018-d66bff7ae520" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
